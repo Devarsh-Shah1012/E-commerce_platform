@@ -58,7 +58,7 @@ This is a fully functional e-commerce website project implemented using Flask an
 
 ## Author
 
-Akshit Sachdeva  
+Devarsh Shah  
 B.Tech Data Science, Manipal Institute of Technology
 
 ---
